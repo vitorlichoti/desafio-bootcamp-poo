@@ -2,6 +2,7 @@ import java.time.LocalDate;
 
 import br.com.dio.desafio.domain.Curso;
 import br.com.dio.desafio.domain.Mentoria;
+import br.com.dio.desafio.domain.Conteudo;
 
 public class Main {
     public static void main(String[] args) {
